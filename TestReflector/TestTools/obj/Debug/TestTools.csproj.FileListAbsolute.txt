@@ -1,0 +1,7 @@
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestTools\bin\Debug\TestTools.dll
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestTools\bin\Debug\TestTools.pdb
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestTools\bin\Debug\TestBase.dll
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestTools\bin\Debug\TestBase.pdb
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestTools\obj\Debug\TestTools.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestTools\obj\Debug\TestTools.dll
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestTools\obj\Debug\TestTools.pdb

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<PluginPyConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ListItem>
+    <ItemConfig>
+      <PluginID>0001</PluginID>
+      <PluginPath>TestTools.dll</PluginPath>
+      <ClassName>TestTools.UsSharpen</ClassName>
+      <PluginFunName>LayAnalysis</PluginFunName>
+    </ItemConfig>
+    <ItemConfig>
+      <PluginID>0002</PluginID>
+      <PluginPath>TestTools.dll</PluginPath>
+      <ClassName>TestTools.UsSharpen</ClassName>
+      <PluginFunName>UsharpAnalysis</PluginFunName>
+    </ItemConfig>
+  </ListItem>
+</PluginPyConfig>

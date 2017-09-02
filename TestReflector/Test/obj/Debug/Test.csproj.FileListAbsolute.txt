@@ -1,0 +1,4 @@
+d:\documents\visual studio 2015\testpie3d\TestReflector\Test\bin\Debug\Test.dll
+d:\documents\visual studio 2015\testpie3d\TestReflector\Test\bin\Debug\Test.pdb
+d:\documents\visual studio 2015\testpie3d\TestReflector\Test\obj\Debug\Test.dll
+d:\documents\visual studio 2015\testpie3d\TestReflector\Test\obj\Debug\Test.pdb

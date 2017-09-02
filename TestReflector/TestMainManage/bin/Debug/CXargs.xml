@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<Model_CXInputArgs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <InputFileName>D:\documents\visual studio 2015\testpie3d\TestReflector\TestMainManage\bin\Debug\IR1原图_02014年8月28日161552.bmp</InputFileName>
+  <OutPutFileName>D:\documents\visual studio 2015\testpie3d\TestReflector\TestMainManage\bin\Debug\IR1原图_02014年8月28日161552CX.bmp</OutPutFileName>
+  <CommandId>1003</CommandId>
+</Model_CXInputArgs>

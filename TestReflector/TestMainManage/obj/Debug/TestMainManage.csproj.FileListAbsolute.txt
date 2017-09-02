@@ -1,0 +1,11 @@
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestMainManage\bin\Debug\TestMainManage.dll
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestMainManage\bin\Debug\TestMainManage.pdb
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestMainManage\bin\Debug\TestBase.dll
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestMainManage\bin\Debug\TestBase.pdb
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestMainManage\obj\Debug\TestMainManage.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestMainManage\obj\Debug\TestMainManage.dll
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestMainManage\obj\Debug\TestMainManage.pdb
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestMainManage\bin\Debug\Test.dll
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestMainManage\bin\Debug\TestTools.dll
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestMainManage\bin\Debug\TestTools.pdb
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestMainManage\bin\Debug\Test.pdb

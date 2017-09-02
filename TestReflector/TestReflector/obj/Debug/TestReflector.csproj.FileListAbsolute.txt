@@ -1,0 +1,16 @@
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestReflector\bin\Debug\TestReflector.exe.config
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestReflector\bin\Debug\TestReflector.exe
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestReflector\bin\Debug\TestReflector.pdb
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestReflector\bin\Debug\TestMainManage.dll
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestReflector\bin\Debug\TestTools.dll
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestReflector\bin\Debug\TestBase.dll
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestReflector\bin\Debug\TestMainManage.pdb
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestReflector\bin\Debug\TestTools.pdb
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestReflector\bin\Debug\TestBase.pdb
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestReflector\obj\Debug\TestReflector.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestReflector\obj\Debug\TestReflector.exe
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestReflector\obj\Debug\TestReflector.pdb
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestReflector\bin\Debug\TestPicFun.py
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestReflector\bin\Debug\Test.dll
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestReflector\bin\Debug\Test.pdb
+d:\documents\visual studio 2015\testpie3d\TestReflector\TestReflector\bin\Debug\Test.py
