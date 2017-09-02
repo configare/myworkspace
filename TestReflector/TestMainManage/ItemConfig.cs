@@ -9,6 +9,7 @@ namespace TestMainManage
 {
     public class ItemConfig
     {
+        //这是笔记本提交的
        //chenan  这是台式机提交的
         public string PluginID
         {
