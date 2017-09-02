@@ -9,7 +9,7 @@ namespace TestMainManage
 {
     public class ItemConfig
     {
-       
+       //chenan
         public string PluginID
         {
             get; set;
