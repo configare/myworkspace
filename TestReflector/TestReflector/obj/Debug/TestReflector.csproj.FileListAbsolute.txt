@@ -14,3 +14,6 @@ d:\documents\visual studio 2015\testpie3d\TestReflector\TestReflector\bin\Debug\
 d:\documents\visual studio 2015\testpie3d\TestReflector\TestReflector\bin\Debug\Test.dll
 d:\documents\visual studio 2015\testpie3d\TestReflector\TestReflector\bin\Debug\Test.pdb
 d:\documents\visual studio 2015\testpie3d\TestReflector\TestReflector\bin\Debug\Test.py
+D:\1work\参考项目\myworkspace\TestReflector\TestReflector\bin\Debug\TestReflector.exe.config
+D:\1work\参考项目\myworkspace\TestReflector\TestReflector\obj\Debug\TestReflector.exe
+D:\1work\参考项目\myworkspace\TestReflector\TestReflector\obj\Debug\TestReflector.pdb
