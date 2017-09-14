@@ -47,6 +47,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TaskManage.cs" />
     <Compile Include="TaskStep.cs" />
+    <Compile Include="TaskSubStep.cs" />
+    <Compile Include="TaskSubStepPars.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TestBase\TestBase.csproj">
@@ -64,6 +66,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="AutoMeteoTask.xml" />
+    <Content Include="AutoTaskConfig.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

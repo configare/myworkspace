@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AutoTask name="测试beta" subitetmthread="2">
+  <Step num="1"  desc="层析"  isexcute="true">
+    
+  </Step>
+  <Step num="1" subnum="2"     argxml="input.xml"    desc="锐化"        isexcute="true"></Step>
+  <Step num="1" subnum="3"     argxml="input.xml"    desc="平滑"        isexcute="true"></Step>
+  <Step num="3" subnum="0"     argxml="input.xml"    desc="生成专题图"  isexcute="true"></Step>
+</AutoTask>
