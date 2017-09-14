@@ -12,7 +12,6 @@ namespace TestMainManage
 {
     public class TaskManage
     {
-      
         public void ExcuteTask()
         {
             Model_AutoMeteoTask model_task = new Model_AutoMeteoTask();
@@ -51,14 +50,12 @@ namespace TestMainManage
         /// <returns></returns>
         private void ExcuteStep()
         {
-            
         }
         /// <summary>
         /// 单任务
         /// </summary>
         private void ExcuteSimpleiStep(object TaskSubStep)
         {
-
             TaskSubStep substep = TaskSubStep as TaskSubStep;
             string str = typeof(PluginManage).Assembly.Location;
             FileInfo fi = new FileInfo(str);
